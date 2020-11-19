@@ -46,4 +46,4 @@ The ISCXTor2016 dataset is publicly available for researchers. If you are using 
     Arash Habibi Lashkari, Gerard Draper-Gil, Mohammad Saiful Islam Mamun and Ali A. Ghorbani, "Characterization of Tor Traffic Using Time Based Features", In the proceeding of the 3rd International Conference on Information System Security and Privacy, SCITEPRESS, Porto, Portugal, 2017.
 
 # Download Link
-https://www.unb.ca/cic/datasets/tor.html
+http://205.174.165.80/CICDataset/ISCX-Tor-NonTor-2017/
